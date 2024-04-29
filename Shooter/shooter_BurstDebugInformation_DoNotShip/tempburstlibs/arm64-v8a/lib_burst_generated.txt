@@ -23,6 +23,7 @@ Library: C:\Github\VR_Shooter\Shooter\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.XR.ARCore;
 --assembly-defines=Unity.XR.ARFoundation;
 --assembly-defines=Unity.XR.ARFoundation.InternalUtils;
@@ -72,6 +73,7 @@ Library: C:\Github\VR_Shooter\Shooter\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.XR.ARCore;
 --assembly-defines=Unity.XR.ARFoundation;
 --assembly-defines=Unity.XR.ARFoundation.InternalUtils;
